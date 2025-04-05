@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=514663&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color#4f1271&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edd9a3&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Danilo+:%29;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
